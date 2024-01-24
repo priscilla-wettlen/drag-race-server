@@ -1,5 +1,6 @@
-[
-  {
+{
+  "queens":[
+{
     "id": 1,
     "name": "Latrice Royale",
     "url": "https://iili.io/JayR2Ox.jpg"
@@ -74,4 +75,7 @@
     "name": "Alyssa Edwards",
     "url": "https://iili.io/JayArKX.jpg"
   }
+
 ]
+
+}
